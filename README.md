@@ -1,7 +1,7 @@
 # 01SU22AI000 🎓🤖
 *A Classroom Chatbot created by Virochana using Google Dialogflow*
 
-Click this link to access this chatbot on telegram: https://t.me/OISU22AIOOObot
+Click this link to access the chatbot on telegram: https://t.me/OISU22AIOOObot
 
 ---
 
@@ -33,21 +33,6 @@ Click this link to access this chatbot on telegram: https://t.me/OISU22AIOOObot
 
 ---
 
-## Additional Features 🚀
-
-The classroom chatbot **01SU22AI000** utilizes advanced features from Google Dialogflow to enhance user interaction and provide a more intuitive experience. Key features include:
-
-- 🎤**Text-to-Speech**  
-  Converts the chatbot's text responses into natural-sounding speech, making interactions more engaging and accessible for users.
-
-- 😊😞**Sentiment Analysis**  
-   Analyzes user inputs to gauge emotional tone, allowing the chatbot to respond empathetically based on user sentiment. This helps in providing personalized support and understanding user concerns better.
-
-- ✍️**Automatic Spelling Correction**  
-  Automatically detects and corrects spelling errors in user queries, ensuring that the chatbot can understand and respond accurately even if the user makes typographical mistakes.
-
----
-
 ## Project Structure 📂
 
 - **Dialogflow Agent** 🤖
@@ -75,10 +60,10 @@ The classroom chatbot **01SU22AI000** utilizes advanced features from Google Dia
 
 1. **Start** a conversation by greeting the bot or asking questions about your class.
 2. **Ask** about:
-   - 📅 Daily schedules: "What's today's schedule?", "When is the next ANN class scheduled?", "Which class is going on?", "What’s the last period tomorrow?", etc.
-   - 👨‍🏫 Faculty and subject information: "Which faculty takes DS class?", "Can you provide the subject code for OS?", etc.
-   - 🗓️ Deadlines: "What is the deadline for ANN assignments?", "When should I submit DAA record?", "When is the last day for completing CN seminar?", etc.
-   - 📝 Exams: "When is the next exam?", "When is DAA exam?", "When is CN lab exam?", etc.
+   - 📅 Daily schedules: "What's today's schedule?", "When is the next IOT class scheduled?", "Which class is going on?", "What’s the last period tomorrow?", etc.
+   - 👨‍🏫 Faculty and subject information: "Which faculty takes IOT class?", "Can you provide the subject code for Deep Learning Techniques?", etc.
+   - 🗓️ Deadlines: "What is the deadline for SSCD assignments?", "When should I submit DLT record?", "When is the last day for completing IOT seminar?", etc.
+   - 📝 Exams: "When is the next exam?", "When is DWDM exam?", "When is Deep Learning lab exam?", etc.
 3. **If unsure**, the bot will ask if you want to forward the question to the Class Representative.
    - ✅ Respond with "Yes" to send the question to the CR, or ❌ "No" to continue with other questions.
 
